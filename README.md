@@ -13,3 +13,10 @@ If you use VSCode to build your app, we included a list of suggested extensions 
 
 ### **Questions?**
 Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
+
+### **Routes in frontend**
+1. http://localhost:3000/payment
+  to test transfer of sol, no anchor framework
+  
+2. http://localhost:3000/transferToken
+  to test token transfer, as of now, toWallet is hardcoded    
